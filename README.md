@@ -1,5 +1,6 @@
 # GoLeetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions that I did to familiarize myself with Go and DSA! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+All solutions are optimized for time complexity and readability. Most solutions not beating 100% but by submitting the same solution for more times would eventually beat 100% time complexity.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
