@@ -13,6 +13,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0042-trapping-rain-water](https://github.com/ymytheresa/GoLeetcode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/ymytheresa/GoLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ymytheresa/GoLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ymytheresa/GoLeetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -66,8 +67,14 @@ All solutions are optimized for time complexity and readability. Most solutions 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ymytheresa/GoLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ymytheresa/GoLeetcode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
