@@ -15,12 +15,14 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ymytheresa/GoLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ymytheresa/GoLeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/ymytheresa/GoLeetcode/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ymytheresa/GoLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ymytheresa/GoLeetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0940-fruit-into-baskets](https://github.com/ymytheresa/GoLeetcode/tree/master/0940-fruit-into-baskets) |
 ## Union Find
 |  |
 | ------- |
@@ -75,6 +77,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ymytheresa/GoLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ymytheresa/GoLeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/ymytheresa/GoLeetcode/tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
