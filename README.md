@@ -49,6 +49,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0042-trapping-rain-water](https://github.com/ymytheresa/GoLeetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ymytheresa/GoLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ymytheresa/GoLeetcode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/ymytheresa/GoLeetcode/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ymytheresa/GoLeetcode/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/ymytheresa/GoLeetcode/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,4 +95,9 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ymytheresa/GoLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ymytheresa/GoLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ymytheresa/GoLeetcode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/ymytheresa/GoLeetcode/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/ymytheresa/GoLeetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
