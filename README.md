@@ -16,6 +16,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ymytheresa/GoLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ymytheresa/GoLeetcode/tree/master/0940-fruit-into-baskets) |
+| [1813-maximum-erasure-value](https://github.com/ymytheresa/GoLeetcode/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0424-longest-repeating-character-replacement](https://github.com/ymytheresa/GoLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ymytheresa/GoLeetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/ymytheresa/GoLeetcode/tree/master/0940-fruit-into-baskets) |
+| [1813-maximum-erasure-value](https://github.com/ymytheresa/GoLeetcode/tree/master/1813-maximum-erasure-value) |
 ## Union Find
 |  |
 | ------- |
@@ -85,6 +87,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0567-permutation-in-string](https://github.com/ymytheresa/GoLeetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ymytheresa/GoLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ymytheresa/GoLeetcode/tree/master/0940-fruit-into-baskets) |
+| [1813-maximum-erasure-value](https://github.com/ymytheresa/GoLeetcode/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
