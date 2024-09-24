@@ -15,6 +15,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ymytheresa/GoLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ymytheresa/GoLeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0917-boats-to-save-people](https://github.com/ymytheresa/GoLeetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/ymytheresa/GoLeetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/ymytheresa/GoLeetcode/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
@@ -52,6 +53,7 @@ All solutions are optimized for time complexity and readability. Most solutions 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ymytheresa/GoLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ymytheresa/GoLeetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/ymytheresa/GoLeetcode/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/ymytheresa/GoLeetcode/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,10 +71,12 @@ All solutions are optimized for time complexity and readability. Most solutions 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ymytheresa/GoLeetcode/tree/master/0011-container-with-most-water) |
+| [0917-boats-to-save-people](https://github.com/ymytheresa/GoLeetcode/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ymytheresa/GoLeetcode/tree/master/0015-3sum) |
+| [0917-boats-to-save-people](https://github.com/ymytheresa/GoLeetcode/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
